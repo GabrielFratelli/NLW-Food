@@ -29,7 +29,7 @@ Para rodar este projeto é necessário ter instalado na sua máquina as seguinte
 
 ## Para rodar o projeto 📌
 
-No terminal rode `npx expo start`
+No terminal rode: `npx expo start`
 
 ou se preferir:
 
