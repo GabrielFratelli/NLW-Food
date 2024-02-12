@@ -29,7 +29,7 @@ Para rodar este projeto é necessário ter instalado na sua máquina as seguinte
 
 ## Para rodar o projeto 📌
 
-No mulador `npx expo start`
+No terminal rode `npx expo start`
 
 ou se preferir:
 
@@ -39,9 +39,13 @@ ou se preferir:
 
 ## Resultado 📷
 
-<div align="center">
-    <img src="src/assets/screenshot/home.png" />
-    <img src="src/assets/screenshot/details-food.png" />
-    <img src="src/assets/screenshot/car-food.png" />
-    <img src="src/assets/screenshot/delete-option.png" />
-</div>
+<h1 align="center">
+    <img src="assets/screenshot/home.jpeg" height="420" width="185"/>
+    <img src="assets/screenshot/home-filter.jpeg" height="420" width="185"/>
+    <img src="assets/screenshot/details-food.jpeg" height="420" width="185"/>
+    <img src="assets/screenshot/car-food.jpeg" height="420" width="185"/>
+    <img src="assets/screenshot/feedback-input.jpeg" height="420" width="185"/>
+    <img src="assets/screenshot/delete-option.jpeg" height="420" width="185"/>
+    <img src="assets/screenshot/car-food-2.jpeg" height="420" width="185"/>
+    <img src="assets/screenshot/whatsapp.jpeg" height="420" width="185"/>
+</h1>
