@@ -3,7 +3,7 @@
 Aplicativo de lanches feito em React Native acompanhando o intensivo NLW Expert da Rocketseat.
 <br>
 <br>
-<a href="https://www.figma.com/file/IeAVpk7DLwMvlZmxKxIQlb/NLW-expert-%E2%80%A2-Orders-(Community)?type=design&node-id=116-350&mode=design&t=oU9wynXVCky89lfM-0" target="_blank">Clique aqui para acessar o Figma Web</a>
+<a href="https://www.figma.com/file/IeAVpk7DLwMvlZmxKxIQlb/NLW-expert-%E2%80%A2-Orders-(Community)?type=design&node-id=116-350&mode=design&t=oU9wynXVCky89lfM-0" target="_blank">Clique aqui para acessar o Figma</a>
 
 ---
 
